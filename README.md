@@ -1,6 +1,6 @@
 # gcs-helper
 
-SignedUrlDemo.java was written for me to learn how to use Google Cloud Storage's [signed URL](https://developers.google.com/storage/docs/accesscontrol#Signing-Strings).
+[SignedUrlDemo.java](https://github.com/kctang/gcs-helper/blob/master/src/main/java/net/big2/gcshelper/SignedUrlDemo.java) was written for me to learn how to use Google Cloud Storage's [signed URL](https://developers.google.com/storage/docs/accesscontrol#Signing-Strings).
 
 ## Usage
 
